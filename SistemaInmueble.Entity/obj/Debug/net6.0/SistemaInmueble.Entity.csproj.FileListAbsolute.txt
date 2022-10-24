@@ -1,0 +1,14 @@
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.Entity\bin\Debug\net6.0\SistemaInmueble.Entity.deps.json
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.Entity\bin\Debug\net6.0\SistemaInmueble.Entity.runtimeconfig.json
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.Entity\bin\Debug\net6.0\SistemaInmueble.Entity.dll
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.Entity\bin\Debug\net6.0\SistemaInmueble.Entity.pdb
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.Entity\obj\Debug\net6.0\SistemaInmueble.Entity.csproj.AssemblyReference.cache
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.Entity\obj\Debug\net6.0\SistemaInmueble.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.Entity\obj\Debug\net6.0\SistemaInmueble.Entity.AssemblyInfoInputs.cache
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.Entity\obj\Debug\net6.0\SistemaInmueble.Entity.AssemblyInfo.cs
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.Entity\obj\Debug\net6.0\SistemaInmueble.Entity.csproj.CoreCompileInputs.cache
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.Entity\obj\Debug\net6.0\SistemaInmueble.Entity.dll
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.Entity\obj\Debug\net6.0\refint\SistemaInmueble.Entity.dll
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.Entity\obj\Debug\net6.0\SistemaInmueble.Entity.pdb
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.Entity\obj\Debug\net6.0\SistemaInmueble.Entity.genruntimeconfig.cache
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.Entity\obj\Debug\net6.0\ref\SistemaInmueble.Entity.dll

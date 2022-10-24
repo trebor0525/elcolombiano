@@ -1,0 +1,15 @@
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.DAL\bin\Debug\net6.0\SistemaInmueble.DAL.deps.json
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.DAL\bin\Debug\net6.0\SistemaInmueble.DAL.dll
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.DAL\bin\Debug\net6.0\SistemaInmueble.DAL.pdb
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.DAL\obj\Debug\net6.0\SistemaInmueble.DAL.csproj.AssemblyReference.cache
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.DAL\obj\Debug\net6.0\SistemaInmueble.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.DAL\obj\Debug\net6.0\SistemaInmueble.DAL.AssemblyInfoInputs.cache
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.DAL\obj\Debug\net6.0\SistemaInmueble.DAL.AssemblyInfo.cs
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.DAL\obj\Debug\net6.0\SistemaInmueble.DAL.csproj.CoreCompileInputs.cache
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.DAL\obj\Debug\net6.0\SistemaInmueble.DAL.dll
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.DAL\obj\Debug\net6.0\refint\SistemaInmueble.DAL.dll
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.DAL\obj\Debug\net6.0\SistemaInmueble.DAL.pdb
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.DAL\obj\Debug\net6.0\ref\SistemaInmueble.DAL.dll
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.DAL\bin\Debug\net6.0\SistemaInmueble.Entity.dll
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.DAL\bin\Debug\net6.0\SistemaInmueble.Entity.pdb
+C:\Proyectos_NetCore\InmuebleOnline\SistemaInmueble.DAL\obj\Debug\net6.0\SistemaInmueble.DAL.csproj.CopyComplete
